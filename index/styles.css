@@ -196,7 +196,6 @@ a img{
 }
 
 .android-create-character{
-  font-size: 21px;
   padding-top: 100px;
 }
 
@@ -208,10 +207,12 @@ a img{
     height: 50px; 
 }
 
-  .android-create-character a {
+  .android-create-character p {
     text-decoration: none;
-    color: #767777;
-    font-weight: 300;
+    font-size: 20px;
+    color: #2B2B2B;
+
+    font-weight: 500;
   }
 
 .android-screen-section {
@@ -360,7 +361,7 @@ a img{
 
 .android-link {
   text-decoration: none;
-  color: #8bc34a !important;
+  color: #2A9CFF !important;
 }
 
   .android-link:hover {
