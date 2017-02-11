@@ -174,14 +174,14 @@ a img{
   height: 800px;
   width: auto;
   background-color: #f3f3f3;
-  background: url('images/slide01.jpg') center 30% no-repeat;
+  background: url('images/background2.jpg') center 30% no-repeat;
   background-size: cover;
 }
 
 .logo-font {
   font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
   line-height: 1;
-  color: #767777;
+  color: #FFFFFF;
   font-weight: 500;
 }
 
@@ -195,9 +195,17 @@ a img{
   padding-top: 24px;
 }
 
-.android-create-character {
+.android-create-character{
   font-size: 21px;
-  padding-top: 400px;
+  padding-top: 100px;
+}
+
+.color-blue{
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 50px;
+    height: 50px; 
 }
 
   .android-create-character a {
@@ -232,6 +240,30 @@ a img{
 .android-image-link {
   text-decoration: none;
 }
+
+#red{
+  background-color: #FF685F;
+}
+#green{
+  background-color: #00D619;
+}
+#blue{
+  background-color: #2A9CFF;
+}
+#orange{
+  background-color: #FFB32C;
+}
+#grey{
+  background-color: #898785;
+}
+#black{
+  background-color: #161616;
+}
+#white{
+  background-color: #FFFFFF;
+  color:black;
+}
+
 
 .android-wear {
   display: inline-block;
