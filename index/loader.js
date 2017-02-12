@@ -9,3 +9,4 @@ function load(title, style, color){
 	$(".cardmain").append(x);
 }
 
+
