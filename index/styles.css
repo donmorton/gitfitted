@@ -609,6 +609,37 @@ a img{
       margin-top:5em;
     }
 
+    /**survey page**/
+     #item {
+
+      color:##161616;
+      text-decoration:none;
+
+    }
+
+    #fit {
+      color: #161616;
+      text-decoration:none;
+
+    }
+
+    #fit: hover{ 
+      color: highlight;
+     }
+
+     .formt{
+      padding-top:3em;
+      padding-bottom: :3em;
+     }
+
+     .lolk{
+      color:#ffffff;
+     }
+
+     .m{
+      height:50em;
+     }
+
 /**** Mobile layout ****/
 @media (max-width: 900px) {
   .android-navigation-container {
