@@ -29,7 +29,7 @@ a img{
 }
 
 ::selection {
-  background-color: #2a9cff;
+  background-color: #6ab344;
   color: #fff;
 }
 
@@ -121,7 +121,7 @@ a img{
   }
 
     .android-navigation .mdl-navigation__link:hover {
-      border-bottom: 4px solid #2a9cff;
+      border-bottom: 4px solid #8bc34a;
     }
 
   .android-search-box {
