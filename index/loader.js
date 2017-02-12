@@ -8,5 +8,3 @@ function load(title, style, color){
 	console.log(x);
 	$(".cardmain").append(x);
 }
-
-
