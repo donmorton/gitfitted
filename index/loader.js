@@ -8,3 +8,11 @@ function load(title, style, color){
 	console.log(x);
 	$(".cardmain").append(x);
 }
+
+function sort(color){
+	alert(color);
+}
+
+function parse(){
+	
+}
