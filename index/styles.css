@@ -545,6 +545,70 @@ a img{
 		height: 30px;
 	}
 
+  /** Oufit Detail page **/
+  .n1
+  {
+    width: 700px;
+    height: 300px;
+  }
+
+
+    #left_col {
+      width: 40%;
+       
+    }
+
+
+    #right_col {
+       width: 40%;
+       float:right;
+    }
+
+
+    .tb{
+      margin-top:2em;
+      padding-right: 4em;
+      margin-right: 2em;
+      margin-left:2em;
+    }
+
+
+    #jam{
+      width: 700px;
+      height: 50px;
+      text-align: center;
+    }
+
+    .can{
+      display: inline-block;
+      margin-top: 3em;
+      margin-left:2em;
+      margin-right:2em;
+    }
+
+    .trans{
+        text-align:center;
+        display: inline-block;
+        font-style:italic;
+        font-size: 4em;
+
+
+
+    }
+
+    .yus{
+      
+      margin-top:30px;
+      padding-top: 11em;
+      clear:both;
+
+    }
+
+    .cardonfit{
+      margin-left:6em;
+      margin-top:5em;
+    }
+
 /**** Mobile layout ****/
 @media (max-width: 900px) {
   .android-navigation-container {
