@@ -1,5 +1,5 @@
 # gitFitted
-[Alt](index/images/logo.png, "git fitted")
+![Alt](http://gitfitted.com/images/logo.png, "git fitted")
 ## The main goal of gitFitted is to create outfits from your own or other user's clothing items. 
 
 ## Other things we had in mind.
